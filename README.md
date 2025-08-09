@@ -37,14 +37,12 @@
     </picture>
   </p>
 </p>
-  **Database Systems:**
+  **Database Systems--------------------Data Science & Machine Learning:**
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" alt="Firebase" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  </p>
-  **Data Science & Machine Learning:**
-  <p>
+    <span> |------------------| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" alt="Keras" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
@@ -54,27 +52,23 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib" />
   </p>
-  **Cloud Technologies:**
+  **Cloud Technologies:---------------DevOps & Version Control:**
   <p>
+    <span> |-----| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
-  </p>
-  **DevOps & Version Control:**
-  <p>
+    <span> |-------------------| </span>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" width="40" alt="Prometheus" />
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="40" alt="Grafana" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
   </p>
-# 🌐 Contact me via:
-  <a href="mailto:ghada.ataoui@supcom.tn">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="40" height="40" alt="Outlook Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ghada-ataoui-387083229/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  #### **Operating Systems:**
+# 🌐 Contact me via---------------Operating Systems:**
   <p>
+    <span> |------| </span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="40" height="40" alt="Outlook Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <span> |-----------------| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   </p>
