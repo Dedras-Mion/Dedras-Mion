@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, Here's Morden Stack Dev</h1>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" alt="Dedras-Mion" /> </p>
+<div align="center">
+  <picture>
+      <img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&column=-1&theme=transparent" alt="Dedras-Mion's GitHub trophy">
+    </picture>
+</div>
+
+
 
 - 📫 How to reach me **dedrasmion@gmail.com**
 <h3>🛠️ 💻 Technical Skills:</h3>
@@ -21,21 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /> 
-  <p align="center">
-    <picture>
-      <!-- For dark theme -->
-      <source
-        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-        media="(prefers-color-scheme: dark)" />
-      <!-- For light theme -->
-      <source
-        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
-        alt="GitHub Stats" />
-    </picture>
-  </p>
 </p>
   **Database Systems--------------------Data Science & Machine Learning:**
   <p>
@@ -52,6 +43,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib" />
   </p>
+
+   <picture>
+    <!-- For dark theme -->
+    <source
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)" />
+    <!-- For light theme -->
+    <source
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
+    </picture>
   **Cloud Technologies:---------------DevOps & Version Control:**
   <p>
     <span> |-----| </span>
