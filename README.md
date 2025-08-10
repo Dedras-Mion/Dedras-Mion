@@ -55,12 +55,12 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
     </picture>
-  **Cloud Technologies:---------------DevOps & Version Control:**
+  **Cloud Technologies:----DevOps & Version Control:**
   <p>
     <span> |-----| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
-    <span> |-------------------| </span>
+    <span> |-------| </span>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" width="40" alt="Prometheus" />
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="40" alt="Grafana" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
@@ -73,7 +73,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
     <span> |-----------------| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
   </p>
 
 
