@@ -6,9 +6,6 @@
     </picture>
 </div>
 
-
-
-- 📫 How to reach me **dedrasmion@gmail.com**
 <h3>🛠️ 💻 Technical Skills:</h3>
 <table>
   <tr>
