@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Here's Morden Stack Dev</h1>
+<h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
 <div align="center">
   <picture>
@@ -65,7 +65,8 @@
     <source
       srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
+      <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dedras-Mion&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
+     <!-- danialpahlavan -->
     </picture>
 # 🌐 Contact me via---------------Operating Systems:**
   <p>
