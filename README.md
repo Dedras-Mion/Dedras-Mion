@@ -67,17 +67,6 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
     </picture>
-  **Cloud Technologies:----DevOps & Version Control:**
-  <p>
-    <span> |-----| </span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
-    <span> |-------| </span>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" width="40" alt="Prometheus" />
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="40" alt="Grafana" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  </p>
 # 🌐 Contact me via---------------Operating Systems:**
   <p>
     <span> |------| </span>
@@ -88,6 +77,17 @@
   </p>
 
 
+  <!-- **Cloud Technologies:----DevOps & Version Control:**
+  <p>
+    <span> |-----| </span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
+    <span> |-------| </span>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prometheus.svg" width="40" alt="Prometheus" />
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" width="40" alt="Grafana" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  </p> -->
 
 
 
