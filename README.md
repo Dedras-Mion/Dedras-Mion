@@ -61,12 +61,11 @@
     <source
       srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)" />
-    <!-- For light theme -->
+    <!-- For light theme  danialpahlavan-->
     <source
       srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dedras-Mion&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
-     <!-- danialpahlavan -->
     </picture>
 # 🌐 Contact me via---------------Operating Systems:**
   <p>
