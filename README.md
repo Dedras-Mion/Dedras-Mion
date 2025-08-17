@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
 <h4>🛠️ 💻 Technical Skills:</h4>
-<table>
+<table align="center">
   <tr>
     <th colspan="7">Programming Languages, Libraries & Frameworks</th>
     <th colspan="">Contact me via</th>
