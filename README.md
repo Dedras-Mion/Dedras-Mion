@@ -7,9 +7,6 @@
     </a>
 </div>
 
-
-
-
 <h4>🛠️ 💻 Technical Skills:</h4>
 <table>
     <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/>
@@ -46,8 +43,8 @@
 </table>
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/>
     
-<h4>🌐 Contact me via </h4>h4
-
+<h4>🌐 Contact me via </h4>
+~!~
 - Email: dedrasmion@gmail.com
 - Telegram: @DedrasMyon
 - Discord: dedrasmion
