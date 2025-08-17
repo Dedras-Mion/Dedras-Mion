@@ -8,7 +8,7 @@
 </div>
 
 <h4>🛠️ 💻 Technical Skills:</h4>
-<table>
+<table align="left">
     <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/>
   <tr>
     <th colspan="15">Programming Languages, Libraries & Frameworks</th>
