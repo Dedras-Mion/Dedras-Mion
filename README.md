@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
-
-<div align="center">
-    <a href="https://github.com/Igamingdev1">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dedras-Mion&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
-</div>
-
 <h4>🛠️ 💻 Technical Skills:</h4>
-<table align="left">
-    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/>
+<table>
   <tr>
-    <th colspan="15">Programming Languages, Libraries & Frameworks</th>
+    <th colspan="7">Programming Languages, Libraries & Frameworks</th>
+    <th colspan="">Contact me via</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="33" alt="JavaScript" /></td>
@@ -21,6 +14,11 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="33" alt="HTML" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="33" alt="CSS" /></td>
+      <td rowspan="3">
+          - Email: dedrasmion@gmail.com<br>
+        - Telegram: @DedrasMyon<br>
+        - Discord: dedrasmion<br>
+      </td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
@@ -41,14 +39,17 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="33" alt="Flask" /></td>
   </tr>
 </table>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/>
-    
-<h4>🌐 Contact me via </h4>
-<p>~!~</p>
-- Email: dedrasmion@gmail.com<br>
-- Telegram: @DedrasMyon<br>
-- Discord: dedrasmion<br>
 
+<div align="center">
+    <a href="https://github.com/Igamingdev1">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dedras-Mion&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+
+<div align="right">
+   <a href="https://github.com/Igamingdev1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/></a>
+   <a href="https://github.com/Igamingdev1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/></a>
+</div>
   
 <div align="center">
 <a href="https://github.com/Igamingdev1?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
