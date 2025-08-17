@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
 <div align="center">
-  <picture>
-      <img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&column=-1&theme=transparent" alt="Dedras-Mion's GitHub trophy">
-    </picture>
+<a href="https://github.com/Igamingdev1?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
+
+<div align="center">
+    <a href="https://github.com/Igamingdev1">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dedras-Mion&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+
+<div align="center">
+   <a href="https://github.com/Igamingdev1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/></a>
+   <a href="https://github.com/Igamingdev1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/></a>
+</div>
+
+- **Languages**: JavaScript, Typescript, Python, PHP  <img width="230px" align="right" alt="png" src="https://cdn.dribbble.com/userupload/13686643/file/original-36fca84c86e82826c4fe35733e964a8e.png?resize=752x"/>
+- **Frameworks**: Node.js, React, Express, Angular, Vue, Next 
+- **Databases**: PostgreSQL, MongoDB, Mysql  
 
 <h3>🛠️ 💻 Technical Skills:</h3>
 <table>
@@ -12,19 +25,24 @@
     <th colspan="15">Programming Languages, Libraries & Frameworks</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"  alt="NextJs" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c#/c#-original.svg" width="40" alt="C#" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="ExpressJS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"  alt="NextJs" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" width="40"  alt="AngularJS" /></td>
+    
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="ExpressJS" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /> </td>
   </tr>
