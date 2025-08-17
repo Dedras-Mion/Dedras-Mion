@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
-<div align="center">
-<a href="https://github.com/Igamingdev1?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
-</div>
 
 <div align="center">
     <a href="https://github.com/Igamingdev1">
@@ -10,14 +7,12 @@
     </a>
 </div>
 
-<div align="center">
-   <a href="https://github.com/Igamingdev1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/></a>
-   <a href="https://github.com/Igamingdev1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/></a>
-</div>
+
 
 
 <h4>🛠️ 💻 Technical Skills:</h4>
 <table>
+    <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/>
   <tr>
     <th colspan="15">Programming Languages, Libraries & Frameworks</th>
   </tr>
@@ -38,7 +33,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"  alt="AngularJS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" /></td>
-  </tr>
+  </tr>    
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /></td>
@@ -49,42 +44,23 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" /></td>
   </tr>
 </table>
-   
-  <table>
-    <th>
-      <tr>
-        <td>Database Systems</td>
-        <td>Data Science & Machine Learning</td>
-      </tr>
-    </th>
-    <tr>
-      <td>
-      </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" alt="Keras" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-learn" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" alt="Matplotlib" /> 
-        </td>
-      </tr>
-  </table>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/>
     
-   <picture>
-    <!-- For dark theme -->
-    <source
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)" />
-    <!-- For light theme  danialpahlavan-->
-    <source
-      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=danialpahlavan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dedras-Mion&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats(DedrasMyon)" />
-    </picture>
-# 🌐 Contact me via---------------Operating Systems:**
+<h4>🌐 Contact me via </h4>h4
+
+- Email: dedrasmion@gmail.com
+- Telegram: @DedrasMyon
+- Discord: dedrasmion
+
+  
+<div align="center">
+<a href="https://github.com/Igamingdev1?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+</div>
+  <!-- 
+  <div align="right">
+       <a href="https://github.com/Igamingdev1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/></a>
+       <a href="https://github.com/Igamingdev1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/></a>
+    </div>
   <p>
     <span> |------| </span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="40" height="40" alt="Outlook Email" />
@@ -92,9 +68,7 @@
     <span> |-----------------| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
   </p>
-
-
-  <!-- **Cloud Technologies:----DevOps & Version Control:**
+  **Cloud Technologies:----DevOps & Version Control:**
   <p>
     <span> |-----| </span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
