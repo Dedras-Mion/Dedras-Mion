@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
-<h4>🛠️ 💻 Technical Skills:</h4>
+<h4>🛠️ 💻 Technical Main Skills:</h4>
 <table align="center">
   <tr>
     <th colspan="7">Programming Languages, Libraries & Frameworks</th>
