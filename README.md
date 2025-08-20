@@ -17,7 +17,7 @@
       <td rowspan="3">
         - Email: dedrasmion@gmail.com<br>
         - Telegram: @DedrasMyon<br>
-        - Discord: dedrasmion<br>
+        - Discord: dedrasmyon<br>
       </td>
   </tr>
   <tr>
