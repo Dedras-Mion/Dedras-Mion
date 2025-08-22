@@ -22,7 +22,8 @@
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" alt="ReactJS" width="33" height="33"/></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /></td>
+<!--     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" alt="ReactJS" width="33" height="33"/></td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="33" alt="ExpressJS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="33"  alt="NextJs" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="33"  alt="AngularJS" /></td>
@@ -56,6 +57,7 @@
 </div>
 
   <!-- 
+  https://github.com/keidev123/keidev123/blob/main/README.md
   <div align="right">
        <a href="https://github.com/Igamingdev1?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Dedras-Mion&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Dedras-Mion's github-readme-stats"/></a>
        <a href="https://github.com/Igamingdev1?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dedras-Mion&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Dedras-Mion's github-readme-streak-stats"/></a>
