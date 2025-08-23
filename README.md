@@ -53,7 +53,7 @@
 </div>
   
 <div align="center">
-<a href="https://github.com/Igamingdev1?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/Dedras-Mion?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
   <!-- 
