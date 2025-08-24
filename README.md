@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
-    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="33" /></td>
 <!--     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="33" alt="ReactJS" width="33" height="33"/></td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="33" alt="ExpressJS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="33"  alt="NextJs" /></td>
