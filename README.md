@@ -4,7 +4,8 @@
 <table align="center">
   <tr>
     <th colspan="7">Programming Languages, Libraries & Frameworks</th>
-    <th colspan="">Contact me via</th>
+    <th colspan="1">Avatar</th>
+    <th colspan="1">Contact me via</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="33" alt="JavaScript" /></td>
@@ -14,11 +15,13 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="33" alt="C" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="33" alt="HTML" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="33" alt="CSS" /></td>
-      <td rowspan="3">
-        - Email: dedrasmion@gmail.com<br>
+    <td rowspan="3">
+        <img width="130" src="./assets/stormunicorn.png" />
+    <td>
+    <td rowspan="3">
         - Telegram: @stormunicorn<br>
         - Discord: stormunicorn<br>
-      </td>
+    </td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="33" height="33"/></td>
@@ -29,6 +32,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="33"  alt="AngularJS" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="33" alt="Laravel" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="33" alt="jQuery" /></td>
+    <td></td>
   </tr>    
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="33" alt="MySQL" /></td>
@@ -38,6 +42,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="33" alt="Supabase" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="33" alt="Wordpress" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="33" alt="Flask" /></td>
+    <td></td>
   </tr>
 </table>
 
