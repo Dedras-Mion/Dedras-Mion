@@ -16,8 +16,8 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="33" alt="CSS" /></td>
       <td rowspan="3">
         - Email: dedrasmion@gmail.com<br>
-        - Telegram: @DedrasMyon<br>
-        - Discord: dedrasmyon<br>
+        - Telegram: @stormunicorn<br>
+        - Discord: stormunicorn<br>
       </td>
   </tr>
   <tr>
