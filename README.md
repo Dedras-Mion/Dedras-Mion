@@ -59,9 +59,9 @@
 <h1 align="center">🔧 Languages and Tools Section:</h1>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img align="center" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
+    <img align="center" alt="GIF description" src="./assets/Skills_Animation_White.gif">
   </picture>
 </div>
   
