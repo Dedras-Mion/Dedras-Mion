@@ -55,7 +55,16 @@
 <div align="center">
 <a href="https://github.com/Dedras-Mion?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Dedras-Mion&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
-
+<!--Languages and Tools Section-->       
+<h1 align="center">🔧 Languages and Tools Section:</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img align="center" width="600" alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+</div>
+  
   <!-- 
   https://github.com/keidev123/keidev123/blob/main/README.md
   <div align="right">
