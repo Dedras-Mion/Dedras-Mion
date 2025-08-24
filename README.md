@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Here's MERN Stack Developer for Business & Betting Site</h1>
 
 <h4>🛠️ 💻 Technical Main Skills:</h4>
-        <img width="180" align="right" src="./assets/stormunicorn.png" />
+        <img width="180" align="right" Top="5" src="./assets/stormunicorn.png" />
 
-<table align="left">
+<table align="center">
   <tr>
     <th colspan="7">Programming Languages, Libraries & Frameworks</th>
     <th colspan="">Contact me via</th>
