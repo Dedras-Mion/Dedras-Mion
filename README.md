@@ -65,7 +65,7 @@ Languages and Tools Section-->
     <img align="center" alt="GIF description" src="./assets/Skills_Animation_White.gif">
   </picture>
 </div>
-  
+   
   <!-- 
   https://github.com/keidev123/keidev123/blob/main/README.md
   <div align="right">
